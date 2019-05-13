@@ -1,0 +1,15 @@
+_Delay_xms: CODE, 1181 0 31
+_ISR: CODE, 1279 0 11
+___ftpack: CODE, 937 0 129
+_SetPWM4Plus: CODE, 1300 0 6
+_main: CODE, 573 0 198
+___lwtoft: CODE, 1239 0 23
+___ftadd: CODE, 17 0 322
+_GetADCValue: CODE, 1066 0 41
+_GPIO_Init: CODE, 1147 0 34
+_PWM4_Init: CODE, 1107 0 40
+_System_init: CODE, 1290 0 10
+___ftmul: CODE, 339 0 234
+_ADC_Init: CODE, 1212 0 27
+___fttol: CODE, 771 0 166
+Total: 1272
